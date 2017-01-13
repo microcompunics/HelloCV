@@ -17,4 +17,4 @@ CLM-framework (a.k.a Cambridge Face Tracker) is a framework for various Constrai
 * FPS: about 0.5-2,only using one CPU core.
 
 ##Preview
-![ScreenShot](https://github.com/Martin20150405/CLM_framework_For_Android/blob/master/CLM4Android/screenshots/S61128-223114.jpg)
+![ScreenShot](https://github.com/Martin20150405/HelloCV/edit/master/CLM_framework_For_Android/screenshots/S61128-223114.jpg)
