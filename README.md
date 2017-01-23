@@ -12,7 +12,9 @@ A collection and playground for interesting Computer Vision algorithms. I will a
 #Tracking / DL
 
 #SLAM / VIO / 3D Reconstruction / IMU
-
+* ORB_SLAM2_Android
+    * [Source](https://github.com/raulmur/ORB_SLAM2)
+    * **[Licence:GPLv3](https://github.com/raulmur/ORB_SLAM2/blob/master/LICENSE.txt)**
 #AR / VR
 
 #Image Processing
